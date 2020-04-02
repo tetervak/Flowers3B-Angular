@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Flowers3B-Angular"
+    }
+  },
+  "defaultProject": "Flowers3B-Angular",
+  "cli": {
+    "analytics": false
+  }
 }
